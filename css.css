@@ -1,0 +1,22 @@
+#pp1 {
+    text-align: center;
+}
+
+
+p{
+	background: gray;
+	font-size: 160%;
+	color: black;
+}
+article{
+	display:block;
+}
+
+#imgdama {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 120px;
+    height:  240px;
+
+  }
